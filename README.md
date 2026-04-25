@@ -1,4 +1,4 @@
-# Movie Reccomendation Project
+# Movie Recomendation Project
 
 ## Setup Instructions
 
@@ -59,6 +59,8 @@ jupyter notebook
 ```
 
 Then open the main notebook file.
+
+Each file is a Juypter Notebook and as long as the dependencies are installed, after running the 01_data_prep.ipynb (for the data), each file can be run in any order. Just open the file and run the cells in sequence. 
 
 
 ## Requirements
