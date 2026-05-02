@@ -5,8 +5,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:DhruvPatel688/Final_Data_Mining_Project.git
-cd Final_Data_Mining_Project
+git clone <your-repo-link>
+cd <your-project-folder>
 ```
 
 ### 2. Create a virtual environment (Optional)
